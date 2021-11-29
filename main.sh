@@ -60,5 +60,6 @@ do
     gen+="${x}"
   done
   
-  echo "$gen"
 done
+
+echo "$gen"
